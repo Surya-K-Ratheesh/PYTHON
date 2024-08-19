@@ -1,0 +1,21 @@
+1. two numbers are given check whether one is a factor of other
+
+2. Read m and n, and display from m to n using 1 while loop
+
+Q3. a
+1
+12
+123
+1234
+Atleast in 2 different logics
+
+b
+1
+10
+101
+1010
+Atleast in 2 different logics
+
+4. Combine two files
+
+5. Create a package a use
